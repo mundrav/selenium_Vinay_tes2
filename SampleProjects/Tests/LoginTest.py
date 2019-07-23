@@ -3,7 +3,6 @@ import time
 import unittest
 import HtmlTestRunner
 
-# test comment vinay
 # To run from commnad line when content in different folder i.e Page Object model
 import sys
 import os
